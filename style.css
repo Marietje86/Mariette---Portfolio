@@ -38,6 +38,12 @@
     text-align: center;
   }
   
+  @media (max-width: 576px) { 
+    .hide-mobile {
+      display: none;
+    }
+  }
+
   .navigation-links {
     display: flex;
     margin-top: 40px;
