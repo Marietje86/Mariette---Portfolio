@@ -23,11 +23,16 @@
   
   h2 {
     font-size: 48px;
+    color: rgb(248, 164, 178);
   }
   
   h3 {
     font-size: 24px;
     opacity: 0.7;
+  }
+
+  h4 {
+    font-size: 40px;
   }
   
   p {
@@ -43,6 +48,21 @@
     .hide-mobile {
       display: none;
     }
+
+h1{
+font-size: 40px;
+line-height: 1.5;
+}
+
+h2 {
+  font-size: 25px;
+  color: rgb(207, 57, 82);
+  line-height: 1.5;
+}
+
+h4 {
+  font-size: 20px;
+}
   }
 
   .navigation-links {
@@ -113,11 +133,6 @@
     box-shadow: var(--box-shadow);
     color: #8b242c;
   }
-  
-  .welcome {
-    font-size: 35px;
-    color: rgb(248, 164, 178);
-  }
 
   .name{
     color:rgb(117, 33, 47)
@@ -125,4 +140,8 @@
 
   .hero {
     background: rgb(250, 246, 242);
+  }
+
+  .travel {
+    margin: 65px 15px;
   }
