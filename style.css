@@ -135,7 +135,12 @@ h4 {
   }
 
   .name{
-    color:rgb(117, 33, 47)
+    color:rgb(117, 33, 47);
+    font-size: 65px;
+  }
+
+  .own-name{
+    font-size: 60px;
   }
 
   .hero {
@@ -144,4 +149,11 @@ h4 {
 
   .travel {
     margin: 65px 15px;
+  }
+
+  .picture-valencia {
+    margin: 20px 80px;
+    padding: 5px 10px;
+    max-width: 300%;
+    border-radius: 4px;
   }
