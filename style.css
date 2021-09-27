@@ -49,6 +49,12 @@
       display: none;
     }
 
+body {
+  position:relative;
+  padding-top: 74px;
+  font-size: 14px;
+}    
+
 h1{
 font-size: 40px;
 line-height: 1.5;
@@ -176,3 +182,14 @@ h4 {
     max-width: 300%;
     border-radius: 4px;
   }
+
+  .active{
+    color:rgb(117, 33, 47) !important;
+    font-weight: bold;
+  }
+
+  .bg-light {
+    background-color: rgb(250, 242, 245) !important;
+    box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+    padding: 0.5rem 1rem;
+}
