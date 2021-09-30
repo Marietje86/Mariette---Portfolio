@@ -9,7 +9,8 @@
     margin: 60px auto;
     max-width: 800px;
     background-image: url(/images/background.jpeg);
-    
+    background-size: cover;
+    background-attachment: fixed;
   }
   
   h1,
