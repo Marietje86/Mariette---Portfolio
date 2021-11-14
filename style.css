@@ -26,7 +26,7 @@
   
   h2 {
     font-size: 48px;
-    color: rgb(236, 176, 186)
+    color: rgb(228, 126, 142)
   }
   
   h3 {
@@ -226,7 +226,12 @@ footer .contact-box {
 
   .travel {
     margin: 65px 15px;
+    margin-top: 110px;
   }
+
+.dance {
+  margin-top: 70px;
+}
 
   .picture-valencia {
     margin: 20px 80px;
