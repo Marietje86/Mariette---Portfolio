@@ -149,9 +149,21 @@ footer .contact-box {
   color:rgb(70, 4, 15);
 }
 
+.fontwork {
+  font-size: large;
+color:rgb(182, 143, 134);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fontresume{
+  color:rgb(170, 165, 165);
+  font-size: medium;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 .heading-project {
   font-size: 40px;
-  color:rgb(128, 18, 37);
+  color:rgb(189, 76, 95);
 }
 
   .navigation-links {
@@ -234,7 +246,7 @@ footer .contact-box {
 }
 
   .picture-valencia {
-    margin: 20px 80px;
+    margin: 20px 115px;
     padding: 5px 10px;
     max-width: 300%;
     border-radius: 4px;
