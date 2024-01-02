@@ -97,6 +97,9 @@ footer .contact-email {
       color: #c2b939;
     }
 
+.container {
+  margin: 30px auto;
+}
 
   @media (max-width: 900px) { 
     .hide-mobile {
